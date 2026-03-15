@@ -78,7 +78,7 @@ Pada tahap ini, kita menggunakan serangkaian perintah Git secara berurutan untuk
 
 <br>Lebih jelasnya pada gambar berikut:
 
-![Gambar 4](assets/L5.png)
+![Gambar 4](assets/L4.png)
 
 <br>Pada gambar tersebut diketahui mendapatkan eror saat upload file ke repositori, saya coba ulang untuk menguploadnya dan ternyata berhasil
 
@@ -86,7 +86,7 @@ Pada tahap ini, kita menggunakan serangkaian perintah Git secara berurutan untuk
 
 Buka kembali halaman repository di Github untuk memastikan file yang telah diunggah munsul dalam repository. Jika file sudah terlihat, maka proses upload telah berhasil. Lebih jelasnya seperti pada gambar berikut:
 
-![Gambar 5](assets/L6.png)
+![Gambar 5](assets/L5.png)
 
 ## 3. Kesimpulan dan Penutup
 
